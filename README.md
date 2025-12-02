@@ -1,6 +1,6 @@
-# flutter_application02
+# Flutter Todo App
 
-A new Flutter project.
+This is a simple Todo App built using **Flutter** and **Dart**.
 
 ## Getting Started
 
